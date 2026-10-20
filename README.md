@@ -19,8 +19,6 @@
   </p>
 </div>
 
-<br />
-
 <div align="center">
   <h2>Technologies & Tools</h2>
 
