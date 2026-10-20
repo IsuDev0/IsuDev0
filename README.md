@@ -19,19 +19,6 @@
   </p>
 </div>
 
-<h2>About me</h2>
-
-<p>
-  I build backend and desktop applications with C# and .NET,
-  with a focus on clean design, testing, and maintainability.
-</p>
-
-<p>
-  <a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/Email-6E32A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-6E32A8?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://discord.gg/your-invite"><img src="https://img.shields.io/badge/Discord-6E32A8?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
 <h2>Tech stack</h2>
 
 <img
