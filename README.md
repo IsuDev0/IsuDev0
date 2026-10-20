@@ -32,6 +32,8 @@
 
   <br>
 
+  <h3>Languages</h3>
+  
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
     pellentesque, urna at tincidunt faucibus, justo metus facilisis augue,
