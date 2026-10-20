@@ -30,8 +30,6 @@
     alt="Przykładowe statystyki języków — anuraghazra"
   />
 
-  <br>
-
   <h3>Languages</h3>
   
   <p>
