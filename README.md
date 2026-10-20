@@ -2,7 +2,7 @@
 
   <img width="1600" height="400" alt="Hey! I'm Isu! — Software Engineer" src="https://github.com/user-attachments/assets/43660c93-798d-457b-a679-822cb24b7b63" />
 
-  <h1>About me</h1>
+  <h2>About me</h2>
 
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
