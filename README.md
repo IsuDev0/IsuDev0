@@ -19,29 +19,34 @@
   </p>
 </div>
 
-<h2 align="center">Programming languages</h2>
+<h2 align="center">Tech stack</h2>
 
 <img
   align="right"
   width="50%"
   height="250"
   src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&amp;layout=donut&amp;langs_count=4&amp;disable_animations=true&amp;theme=dark_github&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=9966CC"
-  alt="Przykładowe statystyki języków — anuraghazra"
+  alt="Example language statistics — anuraghazra"
 />
 
 <br>
+
 <p align="center">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Integer vitae mauris ac libero consequat tincidunt.
+  I build backend and desktop applications with C# and .NET.<br />
+  My focus is clean design, testing, and maintainability.
 </p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
 </p>
+
 <br clear="all" />
+
