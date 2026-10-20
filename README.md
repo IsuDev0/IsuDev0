@@ -6,11 +6,15 @@ I’m a software engineer specializing in C# and .NET, with a background in Comp
 
 ## Tech stack
 
-- **Backend & Data:** C#, .NET, ASP.NET Core, EF Core, REST APIs, SQL Server
-- **Design & Testing:** OOP, SOLID, design patterns, xUnit, Moq,
-  unit and integration testing
-- **Tools & Cloud:** Git, Docker, CI/CD, GitHub Actions, Azure
-- **Security & Observability:** OAuth 2.0, JWT, Serilog, Seq, OpenTelemetry
+**C# & .NET** are at the core of my work. I use **ASP.NET Core** to build
+backend applications, with **Entity Framework Core** and **SQL Server**
+for data access and storage.
+
+- **Testing:** xUnit · Moq · Unit & integration testing
+- **Cloud & Delivery:** Azure · Docker · GitHub Actions · CI/CD
+- **Security:** OAuth 2.0 · JWT · Doppler
+- **Observability:** Serilog · Seq · OpenTelemetry
+- **Version Control:** Git
 
 ## Beyond code
 
