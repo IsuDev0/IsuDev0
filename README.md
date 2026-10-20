@@ -2,12 +2,7 @@
 
 ## About me
 
-I'm a backend developer specializing in **C# and .NET**, based in Wrocław, Poland.
-
-I develop and maintain applications for clients, from implementing new
-features and APIs to refactoring existing systems. I care about clean
-design, testability, and how individual technical decisions affect
-the wider application.
+I’m a software developer focused on C# and .NET, with a degree in Computer Science and experience building applications for clients as a freelancer. I work mainly on backend systems, from developing APIs and business logic to improving existing codebases. I enjoy understanding how an application fits together and finding practical solutions that remain easy to maintain as it grows.
 
 ## Tech stack
 
