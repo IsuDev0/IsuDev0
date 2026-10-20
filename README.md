@@ -29,6 +29,7 @@
   alt="Przykładowe statystyki języków — anuraghazra"
 />
 
+<br>
 <p align="center">
   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   Integer vitae mauris ac libero consequat tincidunt.
