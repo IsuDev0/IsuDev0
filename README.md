@@ -21,6 +21,8 @@
 
 <div align="center">
 
+<h2>Technologies & Tools</h2>
+
   <img
     align="right"
     width="50%"
@@ -30,7 +32,6 @@
   />
 
   <p align="center">
-    <h3>Language</h3>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     Vivamus pellentesque urna at tincidunt faucibus.
   </p>
