@@ -1,52 +1,18 @@
-<div align="center">
+<img width="1600" height="400" alt="Profile banner" src="https://github.com/user-attachments/assets/43660c93-798d-457b-a679-822cb24b7b63" />
 
-  <img width="1600" height="400" alt="Hey! I'm Isu! — Software Engineer" src="https://github.com/user-attachments/assets/43660c93-798d-457b-a679-822cb24b7b63" />
+# Hi, I'm Krystian 👋
 
-  <h2>About me</h2>
+Software Engineer focused on **C# and .NET**.
+I build backend and desktop applications with an emphasis on clean design,
+testing, and maintainability.
 
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-    pellentesque, urna at tincidunt faucibus, justo metus facilisis augue,
-    vel volutpat neque sapien non risus. Integer vitae mauris ac libero
-    consequat tincidunt. Donec euismod, nisl eget consectetur sagittis,
-    nunc purus malesuada enim, sit amet tincidunt velit justo vitae augue.
-  </p>
+## Tech stack
 
-  <p>
-    <a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/Email-6E32A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-6E32A8?style=for-the-badge" alt="LinkedIn" /></a>
-    <a href="https://discord.gg/your-invite"><img src="https://img.shields.io/badge/Discord-6E32A8?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  </p>
-</div>
+- **Languages:** C#, Java, Python, C, C++, SQL
+- **Backend & Data:** .NET, ASP.NET Core, Entity Framework Core, SQL Server
+- **Testing:** xUnit, Moq, unit and integration testing
+- **Tools & Cloud:** Git, Docker, GitHub Actions, Azure
 
-<div align="center">
-  <h2>Tech Stack</h2>
+## Contact
 
-  <img
-    align="right"
-    width="50%"
-    height="250"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&amp;layout=donut&amp;langs_count=4&amp;disable_animations=true&amp;theme=dark_github&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=9966CC"
-    alt="Przykładowe statystyki języków — anuraghazra"
-  />
-
-  <h3>Languages</h3>
-  
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-    pellentesque, urna at tincidunt faucibus, justo metus facilisis augue,
-    vel volutpat neque sapien 
-  </p>
-  
-<br>
-
-<p align="center">
-  <img
-    width="40%"
-    src="https://skillicons.dev/icons?i=cs,c,cpp,java,py&amp;theme=dark&amp;perline=5"
-    alt="C#, C, C++, Java, Python"
-  />
-</p>
-
-
-</div>
+[Email](mailto:krystian.isu.dev@gmail.com)
