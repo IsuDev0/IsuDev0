@@ -41,15 +41,11 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" alt="C#" title="C#" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" alt="C" title="C" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" alt="C++" title="C++" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" alt="Java" title="Java" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python" title="Python" />
+  <img
+    width="40%"
+    src="https://skillicons.dev/icons?i=cs,c,cpp,java,py&amp;theme=dark&amp;perline=5"
+    alt="C#, C, C++, Java, Python"
+  />
 </p>
 
 
