@@ -1,4 +1,6 @@
-# Hi, I'm Krystian 👋
+<img width="1600" height="400" alt="Profile banner" src="https://github.com/user-attachments/assets/43660c93-798d-457b-a679-822cb24b7b63" />
+
+## About me
 
 I'm a backend developer specializing in **C# and .NET**, based in Wrocław, Poland.
 
@@ -18,3 +20,7 @@ the wider application.
 ## Beyond code
 
 Photography, cycling, hiking, and travel.
+
+## Contact
+
+[Email](mailto:krystian.isu.dev@gmail.com)
