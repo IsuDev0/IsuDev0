@@ -20,7 +20,6 @@
 </div>
 
 <div align="center">
-  <h2>Technologies & Tools</h2>
 
   <img
     align="right"
@@ -30,10 +29,10 @@
     alt="Przykładowe statystyki języków — anuraghazra"
   />
 
-
-### test
   
   <p align="center">
+    <h3>Language</h3>
+    
     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     Vivamus pellentesque urna at tincidunt faucibus.
   </p>
