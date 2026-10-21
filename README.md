@@ -1,7 +1,19 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d70e73e4-a5eb-49f6-b3fe-02ccc6139762"
-       width="100%"
-       alt="Hey! I'm Isu! — Software Engineer" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/user-attachments/assets/d70e73e4-a5eb-49f6-b3fe-02ccc6139762"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/user-attachments/assets/196ca4c0-3397-41e6-9580-98169c3827ff"
+    />
+    <img
+      src="https://github.com/user-attachments/assets/d70e73e4-a5eb-49f6-b3fe-02ccc6139762"
+      width="100%"
+      alt="Hey! I'm Isu! — .NET Software Engineer"
+    />
+  </picture>
 </div>
 
 ## About me
