@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/43660c93-798d-457b-a679-822cb24b7b63"
+  <img src="https://github.com/user-attachments/assets/d70e73e4-a5eb-49f6-b3fe-02ccc6139762"
        width="100%"
        alt="Hey! I'm Isu! — Software Engineer" />
 </div>
