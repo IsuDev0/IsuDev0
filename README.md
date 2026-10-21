@@ -6,7 +6,7 @@
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github.com/user-attachments/assets/196ca4c0-3397-41e6-9580-98169c3827ff"
+      srcset="https://github.com/user-attachments/assets/ff7938c5-a4f2-4e80-aee7-66d491708409"
     />
     <img
       src="https://github.com/user-attachments/assets/d70e73e4-a5eb-49f6-b3fe-02ccc6139762"
