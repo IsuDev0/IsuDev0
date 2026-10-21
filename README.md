@@ -18,8 +18,9 @@ test, ship, and maintain applications throughout their lifecycle.
 
 ## Beyond code
 
-Away from the keyboard, I enjoy photography and spending time outdoors,
-whether cycling, hiking, or exploring somewhere new.
+When I’m not coding, I’m usually looking for a change of scenery—heading out
+on my bike, hiking a trail, or taking my camera somewhere new. Photography
+and travel give me a different way to explore and stay curious.
 
 ## Contact
 
