@@ -9,13 +9,14 @@ I'm a software engineer focused on backend development with C# and .NET. I enjoy
 
 ## Tech stack
 
-My work centers on the C#/.NET ecosystem, supported by tools that help me test, ship, and maintain applications throughout their lifecycle.
+My work primarily focuses on the C#/.NET ecosystem, supported by technologies and tools for building, testing, deploying, and maintaining applications.
 
-- **Backend & APIs:** C#, .NET, ASP.NET Core, REST
-- **Data & Persistence:** SQL, SQL Server, Entity Framework Core
-- **Design & Testing:** SOLID, Design Patterns, Unit & Integration Testing, xUnit, Moq
-- **Cloud & Delivery:** Azure, Docker, Git, GitHub Actions, CI/CD
-- **Authentication & Security:** OAuth 2.0, JWT
+- **Programming Languages:** C#, C, C++, Java, Python
+- **Backend & APIs:** .NET, ASP.NET Core, REST APIs
+- **Data & Persistence:** SQL Server, Entity Framework Core, Dapper
+- **Testing:** xUnit, Moq, Unit & Integration Testing
+- **Cloud & DevOps:** Azure, Docker, Git, GitHub Actions
+- **Security:** OAuth 2.0, JWT
 - **Logging & Observability:** Serilog, Seq, OpenTelemetry
 
 ## Beyond code
