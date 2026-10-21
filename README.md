@@ -21,6 +21,4 @@ My work primarily focuses on the C#/.NET ecosystem, supported by technologies an
 
 ## Beyond code
 
-When I'm not coding, I'm usually looking for a change of scenery — heading out on my bike, hiking a trail, or taking my camera somewhere new.
-
-Photography and travel give me a different way to explore and stay curious.
+Outside of coding, I enjoy photography, cycling, and hiking. I like spending time outdoors, exploring new places, and capturing interesting moments along the way.
