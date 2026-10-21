@@ -7,6 +7,9 @@
 ## About me
 I'm a software engineer focused on backend development with C# and .NET. I enjoy understanding how systems work as a whole and using that perspective to make thoughtful technical decisions. Whether I'm building something new or improving existing code, I aim for practical solutions that are clear, testable, and maintainable as requirements evolve.
 
+[![Email](https://img.shields.io/badge/Email-6E32A8?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E32A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/IsuDev0/)
+
 ## Tech stack
 
 My work primarily focuses on the C#/.NET ecosystem, supported by technologies and tools for building, testing, deploying, and maintaining applications.
